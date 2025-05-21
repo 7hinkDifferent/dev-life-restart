@@ -1,0 +1,1 @@
+我现在要模仿人生重开模拟器（life restart）做一款应用开发相关的小游戏，标题为开发者重开模拟器(Developer Life Restart)
